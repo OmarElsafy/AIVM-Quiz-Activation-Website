@@ -176,7 +176,7 @@ Each quiz result screen has an optional "Generate Your Anthem" button:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 This is a single `index.html` file. Deploy anywhere:
 
