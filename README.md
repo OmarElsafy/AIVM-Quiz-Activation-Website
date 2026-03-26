@@ -1,4 +1,4 @@
-# AIVM Oracle — Your AI Autopsy 🧠⚡
+# AIVM Oracle — Your AI Autopsy 
 
 > *Every single week, we reveal more about yourself and your relationship to AI. The AI Oracle is waiting.*
 
@@ -114,7 +114,7 @@ At the end of Quiz 1, users can connect their X profile:
 
 ---
 
-## 🎨 Visual Design System
+##  Visual Design System
 
 ```
 Background:  #fafaf8  (warm off-white)
